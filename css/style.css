@@ -6,9 +6,17 @@
  * Made By MaterializeCSS.com
  */
 
+html {
+  font-family: 'Oxygen', sans-serif;
+  font-size: 17px;
+  overflow: scroll;
+}
+
+/* Materialize stuff */
+
 nav ul a,
 nav .brand-logo {
-  color: #444;
+  color: #fff;
 }
 
 p {
